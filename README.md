@@ -1,2 +1,2 @@
-# landing_webpage
+# TinDog fictional application
 Landing webpage of a fictional website
